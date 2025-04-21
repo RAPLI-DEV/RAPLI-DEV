@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **website fullstack**
 
-- 🌱 I’m currently learning **API, Framework, library, database, and fullstack dev**
+- 🌱 I’m currently learning **API, Framework, library, database sql, and fullstack dev**
 
 - 👯 I’m looking to collaborate on **all project**
 
