@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAPLI-DEV</h1>
+
 <div align="center">
     <img src="https://img.shields.io/badge/dynamic/json?label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frapli-dev&color=0e75b6&style=flat" />
     <img src="https://img.shields.io/github/followers/rapli-dev?color=0e75b6&label=Followers&style=flat" />
@@ -22,7 +23,7 @@
 </div>
 <!-- 
 <div align="center">
-    <h2>Connect with me:</h2>
+    <h3>Connect with me:</h3>
     <p>
         <a
         href="https://linkedin.com/in/https://www.linkedin.com/in/rapli-dev-b03528356/"
@@ -54,12 +55,12 @@
     </p>
 </div> -->
 
-<!-- <h2>Programming Languages :</h2>
+<!-- <h3>Programming Languages :</h3>
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,nextjs,jquery,tailwind,bootstrap,vite,php,laravel,cpp,py,mariadb,mysql,bash,powershell,regex" />
     </a>
-<h2>Tools</h2>
+<h3>Tools</h3>
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,blender,git,github,docker,apache,nginx,lighttpd,cloudflare,npm,composer,qt,prometheus,cmake,gcp,firebase,aws,n8n" />
@@ -75,7 +76,7 @@
 <div align="center">
     <hr />
     <section>
-        ### My Learning
+        <h3>My Learning</h3>
         <p>
             <img src="https://img.shields.io/badge/Linux_Foundation-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="Linux Foundation" />
             <img src="https://img.shields.io/badge/Roadmap.sh-000000?style=for-the-badge&logo=roadmapdotsh&logoColor=white" alt="Roadmap.sh" />
@@ -92,7 +93,7 @@
     </section>
         <hr />
     <section>
-        ### Programming & Frameworks
+        <h3>Programming & Frameworks</h3>
         <p>
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -124,7 +125,7 @@
     </section>
     <hr />
     <section>
-        ### Development Tools & QA
+        <h3>Development Tools & QA</h3>
         <p>
             <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
             <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
@@ -145,7 +146,7 @@
     </section>
     <hr />
     <section>
-        ### Browsers & Web Utilities
+        <h3>Browsers & Web Utilities</h3>
         <p>
             <!-- <img src="https://img.shields.io/badge/Tor_Browser-7E4798?style=for-the-badge&logo=tor-project&logoColor=white" alt="Tor Browser" /> -->
             <img src="https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Google Chrome" />
@@ -159,7 +160,7 @@
     </section>
     <hr />
     <section>
-        <h2>Cloud & Databases</h2>
+        <h3>Cloud & Databases</h3>
         <p>
             <!-- <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> -->
             <!-- <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" /> -->
@@ -180,7 +181,7 @@
     </section>
     <hr />
     <section>
-        ### Security & Servers
+        <h3>Security & Servers</h3>
         <p>
             <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
             <img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white" alt="OpenSSL" />
@@ -195,7 +196,7 @@
     </section>
     <hr />
     <section>
-        ### OS & Virtualization
+        <h3>OS & Virtualization</h3>
         <p>
             <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
             <img src="https://img.shields.io/badge/Ubuntu-E9433F?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
@@ -214,7 +215,7 @@
     </section>
     <hr />
     <section>
-        ### Design & Creative
+        <h3>Design & Creative</h3>
         <p>
             <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
             <img src="https://img.shields.io/badge/CorelDraw-000000?style=for-the-badge&logo=coreldraw&logoColor=white" alt="CorelDraw" />
