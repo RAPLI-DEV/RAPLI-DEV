@@ -76,6 +76,7 @@
     <hr />
     <section>
         <h2>My Learning</h2>
+        
         <p>
             <img src="https://img.shields.io/badge/Linux_Foundation-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="Linux Foundation" />
             <img src="https://img.shields.io/badge/Roadmap.sh-000000?style=for-the-badge&logo=roadmapdotsh&logoColor=white" alt="Roadmap.sh" />
@@ -93,6 +94,7 @@
         <hr />
     <section>
         <h2>Programming & Frameworks</h2>
+        
         <p>
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -125,6 +127,7 @@
     <hr />
     <section>
         <h2>Development Tools & QA</h2>
+        
         <p>
             <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
             <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
@@ -146,6 +149,7 @@
     <hr />
     <section>
         <h2>Browsers & Web Utilities</h2>
+        
         <p>
             <!-- <img src="https://img.shields.io/badge/Tor_Browser-7E4798?style=for-the-badge&logo=tor-project&logoColor=white" alt="Tor Browser" /> -->
             <img src="https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Google Chrome" />
@@ -160,6 +164,7 @@
     <hr />
     <section>
         <h2>Cloud & Databases</h2>
+        
         <p>
             <!-- <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> -->
             <!-- <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" /> -->
@@ -181,6 +186,7 @@
     <hr />
     <section>
         <h2>Security & Servers</h2>
+        
         <p>
             <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
             <img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white" alt="OpenSSL" />
@@ -196,6 +202,7 @@
     <hr />
     <section>
         <h2>OS & Virtualization</h2>
+        
         <p>
             <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
             <img src="https://img.shields.io/badge/Ubuntu-E9433F?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
@@ -215,6 +222,7 @@
     <hr />
     <section>
         <h2>Design & Creative</h2>
+        
         <p>
             <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
             <img src="https://img.shields.io/badge/CorelDraw-000000?style=for-the-badge&logo=coreldraw&logoColor=white" alt="CorelDraw" />
