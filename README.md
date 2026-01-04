@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/github/last-commit/rapli-dev/rapli-dev?color=0e75b6&label=Last%20Update&style=flat" />
     <img src="https://img.shields.io/badge/Location-Indonesia-0e75b6?style=flat" />
 </div>
+<br />
 <p style="text-align: center;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=rapli-dev" alt="rapli-dev" />
