@@ -74,7 +74,7 @@
     </a>
 </p> -->
 
-<div align="center">
+<!-- <div align="center">
     <hr />
     <section>
         <h3>My Learning</h3>
@@ -226,7 +226,7 @@
             <!-- <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /> -->
         </p>
     </section>
-</div>
+<!-- </div> --> -->
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
